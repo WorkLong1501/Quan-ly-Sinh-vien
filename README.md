@@ -1,4 +1,4 @@
-Dự án Quản lý sinh viên được thực hiện vào Học kỳ 1 - Năm học 2020-2021 khoảng thời gian phát triển dự án là 4 tuần, trong chương trình Đồ án chuyên ngành công nghệ thông tin của một bạn học chung lớp. Tác giả public bài này là người thực hiện cũng như phát triển phần mềm của dự án. Bạn học là người phát triển cơ sở dữ liệu.
+Dự án Quản lý sinh viên được thực hiện vào Học kỳ 1 - Năm học 2020-2021, khoảng thời gian phát triển dự án là 4 tuần, trong chương trình Đồ án chuyên ngành công nghệ thông tin của một bạn học chung lớp. Tác giả public bài này là người thực hiện cũng như phát triển phần mềm của dự án. Bạn học là người phát triển cơ sở dữ liệu.
 
 - Nhiệm vụ hệ thống:
 
