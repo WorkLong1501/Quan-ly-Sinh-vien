@@ -1,0 +1,122 @@
+E:\hocC#\CNQuanLySV\CNQuanLySV\bin\Debug\CNQuanLySV.exe.config
+E:\hocC#\CNQuanLySV\CNQuanLySV\bin\Debug\CNQuanLySV.exe
+E:\hocC#\CNQuanLySV\CNQuanLySV\bin\Debug\CNQuanLySV.pdb
+E:\hocC#\CNQuanLySV\CNQuanLySV\bin\Debug\EntityFramework.dll
+E:\hocC#\CNQuanLySV\CNQuanLySV\bin\Debug\EntityFramework.SqlServer.dll
+E:\hocC#\CNQuanLySV\CNQuanLySV\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\hocC#\CNQuanLySV\CNQuanLySV\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\hocC#\CNQuanLySV\CNQuanLySV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\hocC#\CNQuanLySV\CNQuanLySV\bin\Debug\stdole.dll
+E:\hocC#\CNQuanLySV\CNQuanLySV\bin\Debug\EntityFramework.xml
+E:\hocC#\CNQuanLySV\CNQuanLySV\bin\Debug\EntityFramework.SqlServer.xml
+E:\hocC#\CNQuanLySV\CNQuanLySV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\hocC#\CNQuanLySV\CNQuanLySV\obj\Debug\CNQuanLySV.frmDangNhap.resources
+E:\hocC#\CNQuanLySV\CNQuanLySV\obj\Debug\CNQuanLySV.frmDoiMatKhau.resources
+E:\hocC#\CNQuanLySV\CNQuanLySV\obj\Debug\CNQuanLySV.frmGiangVien.resources
+E:\hocC#\CNQuanLySV\CNQuanLySV\obj\Debug\CNQuanLySV.frmKhoa.resources
+E:\hocC#\CNQuanLySV\CNQuanLySV\obj\Debug\CNQuanLySV.frmLop.resources
+E:\hocC#\CNQuanLySV\CNQuanLySV\obj\Debug\CNQuanLySV.frmMain.resources
+E:\hocC#\CNQuanLySV\CNQuanLySV\obj\Debug\CNQuanLySV.frmMonHoc.resources
+E:\hocC#\CNQuanLySV\CNQuanLySV\obj\Debug\CNQuanLySV.frmQLDiem.resources
+E:\hocC#\CNQuanLySV\CNQuanLySV\obj\Debug\CNQuanLySV.frmQLSV.resources
+E:\hocC#\CNQuanLySV\CNQuanLySV\obj\Debug\CNQuanLySV.frmQuanLyNguoiDung.resources
+E:\hocC#\CNQuanLySV\CNQuanLySV\obj\Debug\CNQuanLySV.frmTimDiemSV.resources
+E:\hocC#\CNQuanLySV\CNQuanLySV\obj\Debug\CNQuanLySV.Properties.Resources.resources
+E:\hocC#\CNQuanLySV\CNQuanLySV\obj\Debug\CNQuanLySV.ReportTongKet.resources
+E:\hocC#\CNQuanLySV\CNQuanLySV\obj\Debug\CNQuanLySV.csproj.GenerateResource.cache
+E:\hocC#\CNQuanLySV\CNQuanLySV\obj\Debug\CNQuanLySV.csproj.CoreCompileInputs.cache
+E:\hocC#\CNQuanLySV\CNQuanLySV\obj\Debug\CNQuanLySV.csproj.CopyComplete
+E:\hocC#\CNQuanLySV\CNQuanLySV\obj\Debug\CNQuanLySV.exe
+E:\hocC#\CNQuanLySV\CNQuanLySV\obj\Debug\CNQuanLySV.pdb
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\bin\Debug\CNQuanLySV.exe.config
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\bin\Debug\CNQuanLySV.exe
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\bin\Debug\CNQuanLySV.pdb
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\bin\Debug\EntityFramework.dll
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\bin\Debug\EntityFramework.SqlServer.dll
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\bin\Debug\stdole.dll
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\bin\Debug\EntityFramework.xml
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\bin\Debug\EntityFramework.SqlServer.xml
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.frmDangNhap.resources
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.frmDoiMatKhau.resources
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.frmGiangVien.resources
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.frmKhoa.resources
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.frmLop.resources
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.frmMain.resources
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.frmMonHoc.resources
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.frmQLDiem.resources
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.frmQLSV.resources
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.frmQuanLyNguoiDung.resources
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.frmTimDiemSV.resources
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.frmTongKet.resources
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.Properties.Resources.resources
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.ReportTongKet.resources
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.csproj.GenerateResource.cache
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.csproj.CoreCompileInputs.cache
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.csproj.CopyComplete
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.exe
+E:\hocC#\CNQuanLySV - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.pdb
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\bin\Debug\CNQuanLySV.exe.config
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\bin\Debug\CNQuanLySV.exe
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\bin\Debug\CNQuanLySV.pdb
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\bin\Debug\EntityFramework.dll
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\bin\Debug\EntityFramework.SqlServer.dll
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\bin\Debug\stdole.dll
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\bin\Debug\EntityFramework.xml
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\bin\Debug\EntityFramework.SqlServer.xml
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.frmDangNhap.resources
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.frmDoiMatKhau.resources
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.frmGiangVien.resources
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.frmKhoa.resources
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.frmLop.resources
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.frmMain.resources
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.frmMonHoc.resources
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.frmQLDiem.resources
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.frmQLSV.resources
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.frmQuanLyNguoiDung.resources
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.frmTimDiemSV.resources
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.frmTongKet.resources
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.Properties.Resources.resources
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.csproj.GenerateResource.cache
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.csproj.CoreCompileInputs.cache
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.csproj.CopyComplete
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.exe
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.pdb
+E:\hocC#\CNQuanLySV - Copy - Copy\CNQuanLySV\obj\Debug\CNQuanLySV.csprojAssemblyReference.cache
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\bin\Debug\CNQuanLySV.exe.config
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\bin\Debug\CNQuanLySV.exe
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\bin\Debug\CNQuanLySV.pdb
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\bin\Debug\EntityFramework.dll
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\bin\Debug\EntityFramework.SqlServer.dll
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\bin\Debug\stdole.dll
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\bin\Debug\EntityFramework.xml
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\bin\Debug\EntityFramework.SqlServer.xml
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\obj\Debug\CNQuanLySV.frmDangNhap.resources
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\obj\Debug\CNQuanLySV.frmDoiMatKhau.resources
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\obj\Debug\CNQuanLySV.frmGiangVien.resources
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\obj\Debug\CNQuanLySV.frmKhoa.resources
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\obj\Debug\CNQuanLySV.frmLop.resources
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\obj\Debug\CNQuanLySV.frmMain.resources
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\obj\Debug\CNQuanLySV.frmMonHoc.resources
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\obj\Debug\CNQuanLySV.frmQLDiem.resources
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\obj\Debug\CNQuanLySV.frmQLSV.resources
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\obj\Debug\CNQuanLySV.frmQuanLyNguoiDung.resources
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\obj\Debug\CNQuanLySV.frmTimDiemSV.resources
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\obj\Debug\CNQuanLySV.frmTongKet.resources
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\obj\Debug\CNQuanLySV.Properties.Resources.resources
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\obj\Debug\CNQuanLySV.csproj.GenerateResource.cache
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\obj\Debug\CNQuanLySV.csproj.CoreCompileInputs.cache
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\obj\Debug\CNQuanLySV.csproj.CopyComplete
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\obj\Debug\CNQuanLySV.exe
+E:\hocC#\CNQuanLySV_Version1\CNQuanLySV\obj\Debug\CNQuanLySV.pdb
