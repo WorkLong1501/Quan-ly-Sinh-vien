@@ -16,3 +16,5 @@ Framework sử dụng: EntityFramework.6.2.0
 Truy vấn dữ liệu sử dụng LINQ.
 
 Cơ sở dữ liệu sử dụng: Microsoft SQL Server Management Studio 18.
+
+Công cụ phát triển phần mềm: Visual Studio 2019.
